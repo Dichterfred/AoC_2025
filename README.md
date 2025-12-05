@@ -24,5 +24,3 @@ Did it first try but had a headache
 Had a struggle with that but in the end it worked but not only with code. My solution produced an error when it accessed a position of a sting smaler zero had to just bypass that by jumping over the one ocurance. 
 
 
-## Day 5
-
